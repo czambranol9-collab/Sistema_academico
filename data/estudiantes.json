@@ -1,0 +1,10 @@
+[
+    {
+        "id": 2,
+        "nombre": "Emilio",
+        "apellido": "Flacones",
+        "email": "e@hotmail.com",
+        "carnet": "002",
+        "carrera": "Software"
+    }
+]
